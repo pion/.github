@@ -11,7 +11,8 @@ assignees: ''
   Come join our community on Slack https://pion.ly/slack for quicker support and more resources
 
   We also provide a Knowledge Base https://pion.ly/knowledge-base that covers Pion and general WebRTC
-
+  
+  We maintain a FAQ of common issues and questions https://pion.ly/knowledge-base/pion-basics/faq/
 
  Please answer these questions before submitting your issue. Thanks!
 -->
