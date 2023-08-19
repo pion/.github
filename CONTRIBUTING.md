@@ -1,1 +1,1 @@
-Please see https://pion.ly/knowledge-base/pion-internals/contributing/ for information on contributing.
+Please see https://github.com/pion/webrtc/wiki/Contributing for information on contributing.
