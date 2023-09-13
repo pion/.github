@@ -9,9 +9,9 @@ assignees: ''
 <!--
   Come join our community on Slack https://pion.ly/slack for quicker support and more resources
 
-  We also provide a Knowledge Base https://pion.ly/knowledge-base that covers Pion and general WebRTC
-  
-  We maintain a FAQ of common issues and questions https://pion.ly/knowledge-base/pion-basics/faq/
+  FAQ of common issues and questions https://github.com/pion/webrtc/wiki/FAQ
+
+  Free book that covers general WebRTC https://webrtcforthecurious.com/
 
   Please answer these questions before submitting your issue. Thanks!
 -->
