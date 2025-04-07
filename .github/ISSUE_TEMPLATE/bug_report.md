@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--
-  Come join our community on Slack https://pion.ly/slack for quicker support and more resources
+  Come join our community on Discord https://discord.gg/PngbdqpFbt for quicker support and more resources
 
   FAQ of common issues and questions https://github.com/pion/webrtc/wiki/FAQ
 
